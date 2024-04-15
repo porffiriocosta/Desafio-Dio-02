@@ -1,0 +1,14 @@
+C:\Projetos\Desafio-dio-02\Desafio-dio-02\bin\Debug\net8.0\Desafio-dio-02.exe
+C:\Projetos\Desafio-dio-02\Desafio-dio-02\bin\Debug\net8.0\Desafio-dio-02.deps.json
+C:\Projetos\Desafio-dio-02\Desafio-dio-02\bin\Debug\net8.0\Desafio-dio-02.runtimeconfig.json
+C:\Projetos\Desafio-dio-02\Desafio-dio-02\bin\Debug\net8.0\Desafio-dio-02.dll
+C:\Projetos\Desafio-dio-02\Desafio-dio-02\bin\Debug\net8.0\Desafio-dio-02.pdb
+C:\Projetos\Desafio-dio-02\Desafio-dio-02\obj\Debug\net8.0\Desafio-dio-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Desafio-dio-02\Desafio-dio-02\obj\Debug\net8.0\Desafio-dio-02.AssemblyInfoInputs.cache
+C:\Projetos\Desafio-dio-02\Desafio-dio-02\obj\Debug\net8.0\Desafio-dio-02.AssemblyInfo.cs
+C:\Projetos\Desafio-dio-02\Desafio-dio-02\obj\Debug\net8.0\Desafio-dio-02.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafio-dio-02\Desafio-dio-02\obj\Debug\net8.0\Desafio-dio-02.dll
+C:\Projetos\Desafio-dio-02\Desafio-dio-02\obj\Debug\net8.0\refint\Desafio-dio-02.dll
+C:\Projetos\Desafio-dio-02\Desafio-dio-02\obj\Debug\net8.0\Desafio-dio-02.pdb
+C:\Projetos\Desafio-dio-02\Desafio-dio-02\obj\Debug\net8.0\Desafio-dio-02.genruntimeconfig.cache
+C:\Projetos\Desafio-dio-02\Desafio-dio-02\obj\Debug\net8.0\ref\Desafio-dio-02.dll
